@@ -1,0 +1,1 @@
+start ansible_root/bin/mintty -w full -e ansible_root/bin/bash --login 
